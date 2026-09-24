@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Caio Gillet 👋 / Hi, I'm Caio Gillet 👋</h1>
+<h1 align="center">Olá, eu sou o Caio 👋 / Hi, I'm Caio 👋</h1>
 <h3 align="center">Game Developer · Gameplay Programmer · Computer Engineer</h3>
 
 <p align="center">
