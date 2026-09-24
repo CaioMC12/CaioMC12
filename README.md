@@ -37,7 +37,7 @@
 
 ### 🎮 Sobre mim
 
-Engenheiro da Computação (CESUPA) focado em **desenvolvimento de jogos** e **programação de gameplay**. Gosto de transformar mecânicas em código limpo, responsivo e bem otimizado. Atualmente desenvolvo o **Project Legends** em Unity e curso MBA em Desenvolvimento de Jogos Digitais.
+Engenheiro da Computação (CESUPA) focado em **desenvolvimento de jogos** e **programação de gameplay**. Gosto de transformar mecânicas em código limpo, responsivo e bem otimizado. Atualmente desenvolvo o **Project Legends** em Unity e curso MBA em Desenvolvimento de Jogos Digitais, Desenvolvimento Full-Stack e Banco de Dados.
 
 ### 🐍 Projeto em destaque: Project Legends
 
